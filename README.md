@@ -1,16 +1,16 @@
 <h3 title="hehehe"> Hey 👋, I'm Kax!</h3>
 
 <a href="https://discord.com/users/844637630355472439">
-  <img align="left" alt="Kax's Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img style="filter: invert()" align="left" alt="Kax's Discord" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.instagram.com/kax_dev/">
-  <img align="left" alt="Kac's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img style="filter: invert()" align="left" alt="Kac's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCLT9JoogOHUg0Pk5-_uA_WA">
-  <img align="left" alt="Kax's YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
+  <img style="filter: invert()" align="left" alt="Kax's YouTube" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
 <a href="https://twitter.com/kax2">
-  <img align="left" alt="Kax's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+  <img style="filter: invert()" align="left" alt="Kax's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 
 
