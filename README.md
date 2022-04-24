@@ -53,6 +53,5 @@ A **FULLSTACK DEVELOPMENT** ***Enthusiast*** 🚀.
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kax2&count_private=true&theme=radical" alt="Jas-Script" />
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
 
 Last Edited on: 24/04/2022
