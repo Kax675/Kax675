@@ -27,7 +27,7 @@ A **FULLSTACK DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Student
+- 👨🏽‍💻 I’m currently an Student
 - 🌱 I’m currently exploring C, C# and C++ with a big interest.
 - 🤔 My interest lies in backend web development.
 - 💬 Ask me about anything, I love to answer!
