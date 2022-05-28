@@ -1,5 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Kax!</h3>
-[![Discord Presence](https://lanyard.cnrad.dev/api/844637630355472439)](https://discord.com/users/844637630355472439)
+
 
 <a href="https://discord.com/users/844637630355472439">
  <img style="filter: invert();" align="left" alt="Kac's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -16,7 +16,7 @@
 
 
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/844637630355472439)](https://discord.com/users/844637630355472439)
 
 <br />
 <br />
