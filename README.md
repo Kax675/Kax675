@@ -1,4 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Kax!</h3>
+[![Discord Presence](https://lanyard.cnrad.dev/api/844637630355472439)](https://discord.com/users/844637630355472439)
 
 <a href="https://discord.com/users/844637630355472439">
  <img style="filter: invert();" align="left" alt="Kac's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -21,7 +22,6 @@
 <br />
 
 A **FULLSTACK DEVELOPMENT** ***Enthusiast*** 🚀.
-[![Discord Presence](https://lanyard.cnrad.dev/api/577513401279053864)](https://discord.com/users/577513401279053864)
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
