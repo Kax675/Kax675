@@ -16,7 +16,7 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/844637630355472439)](https://discord.com/users/844637630355472439)
+
 
 <br />
 <br />
@@ -52,7 +52,7 @@ A **FULLSTACK DEVELOPMENT** ***Enthusiast*** 🚀.
 <img src="https://github-readme-stats.vercel.app/api?username=Kax675&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kax's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kax675&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kax675&count_private=true&theme=radical" alt="Jas-Script" />
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/844637630355472439)](https://discord.com/users/844637630355472439)
 ----
 
 Last Edited on: 24/04/2022
