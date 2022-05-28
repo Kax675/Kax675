@@ -21,6 +21,7 @@
 <br />
 
 A **FULLSTACK DEVELOPMENT** ***Enthusiast*** 🚀.
+[![Discord Presence](https://lanyard.cnrad.dev/api/577513401279053864)](https://discord.com/users/577513401279053864)
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
