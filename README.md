@@ -49,7 +49,7 @@ A **FULLSTACK DEVELOPMENT** ***Enthusiast*** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/844637630355472439)](https://discord.com/users/844637630355472439)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1059048851824197632)](https://discord.com/users/1059048851824197632)
 <img src="https://github-readme-stats.vercel.app/api?username=Kax675&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kax's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kax675&count_private=true&theme=radical" alt="Jas-Script" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kax675&count_private=true&theme=radical" alt="Jas-Script" />
