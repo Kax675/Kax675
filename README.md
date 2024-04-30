@@ -75,4 +75,5 @@ Btw, I love
 
 ### 📞 Contact
 Discord: [@kaxozae](https://discord.com/users/1059048851824197632)
+<br />
 E-Mail: [hi@kax.one](mailto:hi@kax.one).
