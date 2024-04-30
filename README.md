@@ -32,7 +32,7 @@ A **FULLSTACK DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🌱 I’m currently exploring C, C# and C++ with a big interest.
 - 🤔 My interest lies in backend web development.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [kaxozae@gmail.com](mailto:kaxozae@gmail.com).
+- 📫 Email me at [hi@kax.one](mailto:hi@kax.one).
 
 
 
