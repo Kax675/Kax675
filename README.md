@@ -32,12 +32,7 @@ I'm also proficient in utilizing Premiere Pro, After Effects, and other creativi
 ![MuseScore](https://img.shields.io/static/v1?style=for-the-badge&message=MuseScore&color=1A70B8&logo=MuseScore&logoColor=FFFFFF&label=)
 <br />
 <br />
-Btw, I love
-<br />
-![Turkish Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Turkish+Airlines&color=C70A0C&logo=Turkish+Airlines&logoColor=FFFFFF&label=)
-![Boeing](https://img.shields.io/static/v1?style=for-the-badge&message=Boeing&color=1D439C&logo=Boeing&logoColor=FFFFFF&label=)
-![Airbus](https://img.shields.io/static/v1?style=for-the-badge&message=Airbus&color=00205B&logo=Airbus&logoColor=FFFFFF&label=)
-#
+Btw, always fly ![Turkish Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Turkish&color=C70A0C&logo=Turkish+Airlines&logoColor=FFFFFF&label=)
 
 ### 📊 Statistics
 
@@ -48,6 +43,3 @@ Btw, I love
   <p/>
   <br/>
 
-### 📞 Contact
-Discord: [@kaxozae](https://discord.com/users/1059048851824197632)  
-E-Mail: [hi@kax.one](mailto:hi@kax.one)
