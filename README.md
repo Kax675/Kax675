@@ -31,8 +31,7 @@ I'm also proficient in utilizing Premiere Pro, After Effects, and other creativi
 ![Audacity](https://img.shields.io/static/v1?style=for-the-badge&message=Audacity&color=0000CC&logo=Audacity&logoColor=FFFFFF&label=)
 ![MuseScore](https://img.shields.io/static/v1?style=for-the-badge&message=MuseScore&color=1A70B8&logo=MuseScore&logoColor=FFFFFF&label=)
 <br />
-<br />
-Btw, always fly ![Turkish Airlines](https://img.shields.io/static/v1?style=for-the-badge&message=Turkish&color=C70A0C&logo=Turkish+Airlines&logoColor=FFFFFF&label=)
+
 
 ### 📊 Statistics
 
