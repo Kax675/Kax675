@@ -42,3 +42,5 @@ I'm also proficient in utilizing Premiere Pro, After Effects, and other creativi
   <p/>
   <br/>
 
+## 📞 Contact
+<a href="mailto:hi@kax.one">✉️ hi@kax.one</a>
