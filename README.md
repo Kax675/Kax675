@@ -1,4 +1,4 @@
-# 🎹 Alper
+# Alper
 
 Artist and full-stack developer based in Turkey. I spend my time building dynamic web experiences, experimenting with low-level systems, and scoring the soundtrack for whatever I'm working on.
 
