@@ -44,11 +44,13 @@ I’m a big fan of the fine details—the kind of stuff that makes a UI feel "ri
 ![Premiere_Pro](https://img.shields.io/badge/Premiere_Pro-00005B?style=flat-square&logo=adobepremierepro&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white)
 
+<!--
 ---
+
 
 ### 📊 stats
 
-<!-- <p align="center">
+ <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Kax675&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kax675&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p> -->
